@@ -51,6 +51,10 @@ CONFIG = {
 
 # COMMAND ----------
 
+Print ("Add comment")
+
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC select
 # MAGIC   cust_name
